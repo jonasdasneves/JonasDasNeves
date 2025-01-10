@@ -1,4 +1,4 @@
-<p>-🔭 I'm looking to work with Back-End
+<p>-🔭 I'm looking for work with Back-End
 <p>-🌱 Studying Java
 <p>-🖥️ Análise e desenvolvimento de sistemas na FIAP.
 <picture align="center">
