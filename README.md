@@ -1,5 +1,5 @@
 <p>-🔭 I'm looking to work with Back-End
-<p>-🌱 Studying Django and Java
+<p>-🌱 Studying Java
 <p>-🖥️ Análise e desenvolvimento de sistemas na FIAP.
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaaF-Eng/FaaF-Eng/output/github-contribution-grid-snake-dark.svg">
