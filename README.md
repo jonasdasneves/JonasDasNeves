@@ -3,7 +3,7 @@
 <p align="center">
   🔭 <strong>Back-End Developer</strong> <br>
   🌱 <strong>Java & Spring</strong> <br>
-  🛠️ <strong>Estudando AWS, Docker e Spring Security</strong> <br>
+  🛠️ <strong>Estudando AWS, Docker e Spring Cloud</strong> <br>
   🖥️ <strong>Estudante de Análise e Desenvolvimento de Sistemas na FIAP</strong>
 </p>
 
@@ -30,9 +30,9 @@ Sou apaixonado por tecnologia e desenvolvimento backend, sempre buscando evoluir
 
 ## 📚 Atualmente estudando
 - ☁ **AWS Cloud Practitioner**
-- 🐳 **Docker**
-- 🔐 **Spring Security**
-- ☕ **Java avançado & boas práticas (Clean Code)**
+- 🐳 **Docker e Openshift**
+- 🔐 **Spring Security e Spring Cloud**
+- ☕ **Java avançado, boas práticas (Clean Code), Clean Architecture, MVC e Hexagonal**
 
 ---
 
